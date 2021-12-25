@@ -1,2 +1,2 @@
 # webdev
-projects for my web development career
+coding projects
